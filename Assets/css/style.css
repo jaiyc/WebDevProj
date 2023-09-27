@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@700&display=swap');
+
+.pos-hdr{
+    display: flex;
+    justify-content: end;
+}
